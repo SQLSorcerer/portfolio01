@@ -14,46 +14,31 @@ const Projects = () => {
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
           <Link
-            href="https://web.hr/"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
-              <Image
-                src="/FirstProject.png"
-                height={150}
-                width={150}
-                alt="WebHR Project"
-              />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">WebHR</p>
+                <p className="text-white font-semibold text-xl">Food Delivery Web Application</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed a modern UI website comprising more than 50 screens,
-                  along with the integration of a blog using Next.js.
+                  Developed a food delivery web application utilizing Microservices architecture.
                 </p>
               </div>
             </div>
           </Link>
           <Link
-            href="https://hireside.com/"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
-              <Image
-                src="/SecondProject.png"
-                height={150}
-                width={150}
-                alt="HireSide"
-              />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">HireSide</p>
+                <p className="text-white font-semibold text-xl">Next.js Car Rental App </p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed a web application on Next.js that allows users to
-                  apply for jobs, create job posts, and manage their company
-                  profiles.
+                Led the development of a feature-rich Car Rental App, demonstrating expertise in React, Tailwind CSS, GraphQL, HyGraph, TypeScript,  and Next.js 13.
                 </p>
               </div>
             </div>
@@ -61,45 +46,33 @@ const Projects = () => {
         </div>
         <div className="flex-col flex md:flex-row ">
           <Link
-            href="https://www.vergesystems.com/"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
-              <Image
-                src="/ThirdProject.png"
-                height={150}
-                width={150}
-                alt="VergeSystems"
-              />
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                  Verge Systems
+                Juice Blend Emporium eCommerce Website
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed the Verge Systems website using React.js.
+                  Developing the eCommerce Website using React, TypeScript, Redux, Tailwind CSS, Hooks, GraphQL, Node
                 </p>
               </div>
             </div>
           </Link>
           <Link
-            href="http://44.201.47.75/"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
-              <Image
-                src="/FourProject.png"
-                height={150}
-                width={150}
-                alt="Payoasis"
-              />
               <div className="p-3 ">
-                <p className="text-white font-semibold text-xl">Payoasis</p>
+                <p className="text-white font-semibold text-xl">Salon Billing Web App</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed the modern UI for a banking website utilizing Gatsby.
+                Building a Salon Billing Web App using ASP.NET Core, React, TypeScript, Auth0, Stripe, and Plaid 
                 </p>
               </div>
             </div>

@@ -13,16 +13,10 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate software engineer, I thrive on the intricate dance
-          between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
-          blend technology with innovation.
+        As an enthusiastic full stack developer, I thrive on the intricate dance between logic and creativity, orchestrating a symphony of code to bring captivating web applications to life. My passion lies in seamlessly translating ideas into interactive and visually stunning digital experiences.
           <br />
           <br />
-          With a fervor for crafting elegant solutions, I navigate the
-          ever-evolving landscape of software development. My journey involves
-          translating concepts into code, creating seamless user experiences,
-          and constantly pushing the boundaries of what&#39;s possible
+          With a keen eye for detail and a penchant for innovation, I relish the challenge of pushing the boundaries of what is possible in the dynamic world of web development. Join me on this exhilarating journey of transforming concepts into engaging and enthralling online solutions.
         </p>
       </div>
     </section>
