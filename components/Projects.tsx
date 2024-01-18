@@ -70,9 +70,9 @@ const Projects = () => {
           >
             <div className="flex-row flex mb-5">
               <div className="p-3 ">
-                <p className="text-white font-semibold text-xl">Salon Billing Web App</p>
+                <p className="text-white font-semibold text-xl">Banking Web Application using Microservice Architecture </p>
                 <p className="text-gray-500 text-[10px]">
-                Building a Salon Billing Web App using ASP.NET Core, React, TypeScript, Auth0, Stripe, and Plaid 
+                Nest.js, GraphQL, Next.js, Typescript, NextUI 
                 </p>
               </div>
             </div>
