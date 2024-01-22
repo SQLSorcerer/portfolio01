@@ -9,7 +9,7 @@ const Projects = () => {
         PROJECTS
       </h1>
       <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl ">
-        EXPLORE NOW
+        EXPLORE 
       </p>
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
@@ -54,10 +54,10 @@ const Projects = () => {
             <div className="flex-row flex mb-5">
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                Juice Blend Emporium eCommerce Website
+                Payment Gateway Backend
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                  Developing the eCommerce Website using React, TypeScript, Redux, Tailwind CSS, Hooks, GraphQL, Node
+               Backend: NestJS, TypeScript, Express, gRPC, Redis, PostgreSQL, and GraphQL. It provides a modular and scalable architecture to handle user authentication, authorization, fraud detection, currency conversion, payment methods, and communication via Kafka.
                 </p>
               </div>
             </div>
