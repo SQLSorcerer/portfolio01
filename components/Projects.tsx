@@ -9,7 +9,7 @@ const Projects = () => {
         PROJECTS
       </h1>
       <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl ">
-        EXPLORE 
+        EXPLORE
       </p>
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
@@ -23,7 +23,7 @@ const Projects = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Payment Gateway Backend</p>
                 <p className="text-gray-500 text-[10px]">
-                NodeJs, NestJs, TypeORM, Postgres, GraphQL, gRPC, Redis, Kafka, RabbitMQ, Passport, Bcrypt, JWT, Express, Docker
+                  NodeJs, NestJs, TypeORM, Postgres, GraphQL, gRPC, Redis, Kafka, RabbitMQ, Passport, Bcrypt, JWT, Express, Docker
                 </p>
               </div>
             </div>
@@ -38,7 +38,7 @@ const Projects = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Next.js Car Rental App </p>
                 <p className="text-gray-500 text-[10px]">
-                Led the development of a feature-rich Car Rental App, demonstrating expertise in React, Tailwind CSS, GraphQL, HyGraph, TypeScript,  and Next.js 13.
+                  Led the development of a feature-rich Car Rental App, demonstrating expertise in React, Tailwind CSS, GraphQL, HyGraph, TypeScript,and Next.js.
                 </p>
               </div>
             </div>
@@ -54,10 +54,10 @@ const Projects = () => {
             <div className="flex-row flex mb-5">
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                Payment Gateway Backend
+                  Payment Gateway
                 </p>
                 <p className="text-gray-500 text-[10px]">
-               Backend: NestJS, TypeScript, Express, gRPC, Redis, PostgreSQL, and GraphQL. It provides a modular and scalable architecture to handle user authentication, authorization, fraud detection, currency conversion, payment methods, and communication via Kafka.
+                  NestJS, TypeScript, Express, gRPC, Redis, PostgreSQL, and GraphQL.
                 </p>
               </div>
             </div>
@@ -70,9 +70,9 @@ const Projects = () => {
           >
             <div className="flex-row flex mb-5">
               <div className="p-3 ">
-                <p className="text-white font-semibold text-xl">Banking Web Application using Microservice Architecture </p>
+                <p className="text-white font-semibold text-xl">Banking Web Application </p>
                 <p className="text-gray-500 text-[10px]">
-                Nest.js, GraphQL, Next.js, Typescript, NextUI 
+                  Nest.js, GraphQL, Next.js, Typescript, NextUI
                 </p>
               </div>
             </div>
