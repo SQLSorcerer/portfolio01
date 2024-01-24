@@ -21,9 +21,9 @@ const Projects = () => {
           >
             <div className="flex-row flex mb-5">
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">Food Delivery Web Application</p>
+                <p className="text-white font-semibold text-xl">Payment Gateway Backend</p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed a food delivery web application utilizing Microservices architecture.
+                NodeJs, NestJs, TypeORM, Postgres, GraphQL, gRPC, Redis, Kafka, RabbitMQ, Passport, Bcrypt, JWT, Express, Docker
                 </p>
               </div>
             </div>

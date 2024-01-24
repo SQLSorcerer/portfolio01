@@ -22,12 +22,12 @@ const Banner = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Full Stack Developer with a focus on (.NET, C#, Typescript, Microservices, SQL, React) development,
+          Passionate Full Stack Developer with a focus on (Nest.js, PostgreSQL, Typescript, Microservices, SQL, React) development,
           dedicated to crafting elegant and user-friendly web applications.
         </p>
         <div className="text-md flex justify-center">
           <button
-            onClick={() => window.open("mailto:tindomakandy@gmail.com")}
+            onClick={() => window.open("mailto:tatendamk24@gmail.com")}
             className=" z-[1]     padding-20  hover:bg-white rounded-3xl  text-white font-semibold hover:text-black py-3 px-10  border-[0.1px] border-white hover:border-transparent "
           >
             Contact Me
