@@ -14,7 +14,7 @@ const Projects = () => {
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
           <Link
-            href="#"
+            href="https://github.com/blacktscoder/payment-gateway"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -29,7 +29,7 @@ const Projects = () => {
             </div>
           </Link>
           <Link
-            href="#"
+            href="https://github.com/blacktscoder/car-rental-app"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -46,7 +46,7 @@ const Projects = () => {
         </div>
         <div className="flex-col flex md:flex-row ">
           <Link
-            href="#"
+            href="https://github.com/blacktscoder/food-delivery-app"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -54,16 +54,16 @@ const Projects = () => {
             <div className="flex-row flex mb-5">
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                  Payment Gateway
+                Food Delivery Web Application  
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                  NestJS, TypeScript, Express, gRPC, Redis, PostgreSQL, and GraphQL.
+                Node.js,Nest.js,GraphQL, Next.js, Typescript, NextUI
                 </p>
               </div>
             </div>
           </Link>
           <Link
-            href="#"
+            href="https://github.com/blacktscoder/payment-gateway"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -72,7 +72,7 @@ const Projects = () => {
               <div className="p-3 ">
                 <p className="text-white font-semibold text-xl">Banking Web Application </p>
                 <p className="text-gray-500 text-[10px]">
-                  Nest.js, GraphQL, Next.js, Typescript, NextUI
+                Nest.js, GraphQL, Next.js, Typescript, NextUI,TypeORM, Passport, JWT
                 </p>
               </div>
             </div>
