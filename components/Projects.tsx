@@ -36,9 +36,9 @@ const Projects = () => {
           >
             <div className="flex-row flex mb-5">
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">Next.js Car Rental App </p>
+                <p className="text-white font-semibold text-xl"> Healthcare System </p>
                 <p className="text-gray-500 text-[10px]">
-                  Led the development of a feature-rich Car Rental App, demonstrating expertise in React, Tailwind CSS, GraphQL, HyGraph, TypeScript,and Next.js.
+                The healthcare system is designed to improve patient care and optimize doctor efficiency, leveraging Django REST Framework alongside Next.js, TypeScript, Python, and GraphQL.
                 </p>
               </div>
             </div>
