@@ -29,7 +29,7 @@ const Projects = () => {
             </div>
           </Link>
           <Link
-            href="https://github.com/blacktscoder/car-rental-app"
+            href="https://github.com/blacktscoder/healthcare-api"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -46,7 +46,7 @@ const Projects = () => {
         </div>
         <div className="flex-col flex md:flex-row ">
           <Link
-            href="https://github.com/blacktscoder/food-delivery-app"
+            href="https://github.com/blacktscoder/globalone-ecommerce-app"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -63,7 +63,7 @@ const Projects = () => {
             </div>
           </Link>
           <Link
-            href="https://github.com/blacktscoder/payment-gateway"
+            href="https://github.com/blacktscoder/web-banking-app"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -72,7 +72,7 @@ const Projects = () => {
               <div className="p-3 ">
                 <p className="text-white font-semibold text-xl">Banking Web Application </p>
                 <p className="text-gray-500 text-[10px]">
-                Nest.js, GraphQL, Next.js, Typescript, NextUI,TypeORM, Passport, JWT
+                This project is a payment gateway system built using NestJS, TypeScript, Express, gRPC, Redis, PostgreSQL, and GraphQL.
                 </p>
               </div>
             </div>
