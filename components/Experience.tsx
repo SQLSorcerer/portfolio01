@@ -23,7 +23,7 @@ const Experience = () => {
       I possess a robust foundation in crafting dynamic and responsive web applications.
           <br />
           <br />      
-          My expertise extends across React.js, Next.js, Node.js, and .NET, Microservices, enabling me to create cross-platform web applications that operate seamlessly. 
+          My expertise extends across React.js, Next.js, Node.js, and PHP- Lavarel, Microservices, enabling me to create cross-platform web applications that operate seamlessly. 
           Moreover, my proficiency in React.js empowers me to build rapid, scalable, and dynamic web pages, ensuring exceptional user experiences. 
           I possess a profound understanding of component-based architecture and state management, staying abreast of the latest trends and technologies in web development.
         </p>
@@ -38,7 +38,7 @@ const Experience = () => {
             Nest.js
           </div>
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Microservices
+            PHP - Lavarel
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             React
