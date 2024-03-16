@@ -54,10 +54,10 @@ const Projects = () => {
             <div className="flex-row flex mb-5">
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                Food Delivery Web Application  
+                GlobalOne e-commerce platform
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                Node.js,Nest.js,GraphQL, Next.js, Typescript, NextUI
+                The GlobalOne e-commerce platform: backend (Laravel with GraphQL) and frontend (Next.js with React and GraphQL) for incorporating features like real-time updates, search functionality.
                 </p>
               </div>
             </div>

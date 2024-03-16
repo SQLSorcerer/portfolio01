@@ -22,7 +22,7 @@ const Banner = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Full Stack Software Developer with a focus on (Nest.js, Django, GraphQL, Express, Typescript, Microservices, React/Next) development,
+          Passionate Full Stack Software Developer with a focus on (PHP (Lavarel), Nest.js, Django, GraphQL, Express, Typescript, Microservices, React/Next) development,
           dedicated to crafting elegant and user-friendly web applications.
         </p>
         <div className="text-md flex justify-center">
