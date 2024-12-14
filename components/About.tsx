@@ -13,11 +13,9 @@ const About = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-        As an enthusiastic full stack software developer, I thrive on the intricate dance between logic and creativity, orchestrating a symphony of code to bring captivating web applications to life. My passion lies in seamlessly translating ideas into interactive and visually stunning digital experiences.
+        A passionate and results-driven Backend Developer, Cloud Engineer, and API Specialist with a strong focus on building scalable, high-performance applications. Whether you’re looking to build cutting-edge backend systems, design modern APIs, or leverage the power of cloud technologies, I’m here to turn your ideas into reality.          <br />
           <br />
-          <br />
-          With a keen eye for detail and a penchant for innovation, I relish the challenge of pushing the boundaries of what is possible in the dynamic world of web development. Join me on this exhilarating journey of transforming concepts into engaging and enthralling online solutions.
-        </p>
+          I believe in building high-quality, maintainable systems that not only meet your needs but scale with you as your business grows. My approach is to understand your unique challenges and goals, so I can craft tailored solutions that drive results.         </p>
       </div>
     </section>
   );

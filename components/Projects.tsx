@@ -23,7 +23,7 @@ const Projects = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Payment Gateway Backend</p>
                 <p className="text-gray-500 text-[10px]">
-                  NodeJs, NestJs, TypeORM, Postgres, GraphQL, gRPC, Redis, Kafka, RabbitMQ, Passport, Bcrypt, JWT, Express, Docker
+                Tech Stack: NodeJs, NestJs, TypeORM, Postgres, GraphQL, gRPC, Redis, Kafka, RabbitMQ, Passport, Bcrypt, JWT, Express, Docker
                 </p>
               </div>
             </div>
@@ -38,7 +38,7 @@ const Projects = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl"> Healthcare System </p>
                 <p className="text-gray-500 text-[10px]">
-                The healthcare system is designed to improve patient care and optimize doctor efficiency, leveraging Django REST Framework alongside Next.js, TypeScript, Python, and GraphQL.
+                Tech Stack: Django REST Framework alongside Next.js, TypeScript, Python, and GraphQL.
                 </p>
               </div>
             </div>
@@ -46,7 +46,7 @@ const Projects = () => {
         </div>
         <div className="flex-col flex md:flex-row ">
           <Link
-            href="https://github.com/blacktscoder/globalone-ecommerce-app"
+            href="https://github.com/blacktscoder/health-wellness-tracker"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -54,10 +54,10 @@ const Projects = () => {
             <div className="flex-row flex mb-5">
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                GlobalOne e-commerce platform
+                Health Data API
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                The GlobalOne e-commerce platform: backend (Laravel with GraphQL) and frontend (Next.js with React and GraphQL) for incorporating features like real-time updates, search functionality.
+                 Tech Stack: AWS Typescript, GraphQL, AWS Lambda, DynamoDB.
                 </p>
               </div>
             </div>
@@ -72,7 +72,7 @@ const Projects = () => {
               <div className="p-3 ">
                 <p className="text-white font-semibold text-xl">Banking Web Application </p>
                 <p className="text-gray-500 text-[10px]">
-                This project is a payment gateway system built using NestJS, TypeScript, Express, gRPC, Redis, PostgreSQL, and GraphQL.
+                Tech Stack: NestJS, TypeScript, Express, gRPC, Redis, PostgreSQL, and GraphQL.
                 </p>
               </div>
             </div>
